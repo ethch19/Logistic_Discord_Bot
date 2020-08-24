@@ -1,0 +1,19 @@
+{
+  "spreadsheetId": "",
+  "sheet": "",
+  "trainingWebhookId": 0,
+  "attendanceWebhookId": 0,
+  "range": "",
+  "appendNumber": 0,
+  "totalColumn": "",
+  "rtColumn": "",
+  "ptColumn": "",
+  "ctColumn": "",
+  "atColumn": "",
+  "ltColumn": "",
+  "patrolColumn": "",
+  "inspectColumn": "",
+  "cohostColumn": "",
+  "superColumn": "",
+  "attendColumn": ""
+}
